@@ -1,0 +1,10 @@
+**/.buildpath
+**/.project
+**/.settings
+**/.classpath
+**/build.properties
+**/.DS_Store
+**/target
+**/.launch
+**/xtend-gen
+**/src-gen
